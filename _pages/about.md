@@ -25,6 +25,6 @@ latest_posts:
   enabled: false
 ---
 
-We’re a vigorous group of *Homo sapiens* scientists asking a simple question: why do only a small subset of people develop life-threatening infections or immune dysregulation, while most remain asymptomatic or experience only mild disease? Using humans as our primary model system—the one we care about most and understand best—we integrate human genetics and immunology to uncover the mechanisms that shape protective and pathological immune responses, with the goal of translating discovery into better diagnosis and therapy.
+We’re a vigorous and rigorous group of *Homo sapiens* scientists asking a simple question: why do only a small subset of people develop life-threatening infections or immune dysregulation, while most remain asymptomatic or experience only mild disease? Using humans as our primary model system—the one we care about most and understand best—we integrate human genetics and immunology to uncover the mechanisms that shape protective and pathological immune responses, with the goal of translating discovery into better diagnosis and therapy.
 
 **We’re always interested in collaborating** and in hearing from prospective trainees. If you’d like to join the lab, please email us with your CV and a brief note about your interests.
