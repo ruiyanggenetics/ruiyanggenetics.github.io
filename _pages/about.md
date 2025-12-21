@@ -1,3 +1,4 @@
+DEPLOY CHECK — REMOVE ME
 ---
 layout: about
 title: Home
