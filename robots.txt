@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ruiyanggenetics.github.io/ghi/sitemap.xml
